@@ -1,0 +1,72 @@
+2020-07-01 20:23:41: VideoIter:: iterator initialized (phase: '<NO_NAME>', num: 1610)
+2020-07-01 20:23:52: Iter 0: start with learning rate: 1.00000e-03 (next lr step: 208)
+2020-07-01 20:23:52: Start epoch 0:
+2020-07-01 20:24:10: VideoIter:: ERROR!! (Force using another index:
+684)
+[Errno 5] Input/output error
+2021-03-17 22:25:26: VideoIter:: iterator initialized (phase: '<NO_NAME>', num: 1610)
+2021-03-17 22:26:35: Iter 0: start with learning rate: 1.00000e-03 (next lr step: 208)
+2021-03-17 22:26:35: Start epoch 0:
+2021-03-17 22:27:04: Epoch [0]   Batch [0]    Speed   2.0 (+ 1) sample/sec  loss-ce = 1.79429  
+2021-03-17 22:27:07: Epoch [0]   Batch [1]    Speed  22.3 (+ 0) sample/sec  loss-ce = 2.32923  
+2021-03-17 22:27:10: Epoch [0]   Batch [2]    Speed  22.6 (+ 0) sample/sec  loss-ce = 1.97945  
+2021-03-17 22:27:12: Epoch [0]   Batch [3]    Speed  22.4 (+ 0) sample/sec  loss-ce = 1.79141  
+2021-03-17 22:27:15: Epoch [0]   Batch [4]    Speed  23.2 (+ 0) sample/sec  loss-ce = 1.61666  
+2021-03-17 22:27:18: Epoch [0]   Batch [5]    Speed  22.8 (+ 0) sample/sec  loss-ce = 1.54114  
+2021-03-17 22:27:21: Epoch [0]   Batch [6]    Speed  18.6 (+ 6) sample/sec  loss-ce = 1.51728  
+2021-03-17 22:27:21: VideoIter:: ERROR!! (Force using another index:
+684)
+[Errno 5] Input/output error
+2021-03-17 22:27:23: Epoch [0]   Batch [7]    Speed  22.5 (+ 0) sample/sec  loss-ce = 1.47741  
+2021-03-17 22:27:26: Epoch [0]   Batch [8]    Speed  22.3 (+ 0) sample/sec  loss-ce = 1.39221  
+2021-03-17 22:27:29: Epoch [0]   Batch [9]    Speed  22.0 (+ 0) sample/sec  loss-ce = 1.49157  
+2021-03-17 22:27:32: Epoch [0]   Batch [10]   Speed  18.2 (+ 6) sample/sec  loss-ce = 1.44356  
+2021-03-17 22:27:32: VideoIter:: ERROR!! (Force using another index:
+684)
+[Errno 5] Input/output error
+2021-03-17 22:27:35: Epoch [0]   Batch [11]   Speed  20.6 (+ 0) sample/sec  loss-ce = 1.45061  
+2021-03-17 22:27:38: Epoch [0]   Batch [12]   Speed  22.5 (+ 0) sample/sec  loss-ce = 1.33611  
+2021-03-17 22:27:40: Epoch [0]   Batch [13]   Speed  22.9 (+ 0) sample/sec  loss-ce = 1.30591  
+2021-03-17 22:27:43: Epoch [0]   Batch [14]   Speed  22.8 (+ 0) sample/sec  loss-ce = 1.47458  
+2021-03-17 22:27:46: Epoch [0]   Batch [15]   Speed  23.2 (+ 0) sample/sec  loss-ce = 1.55097  
+2021-03-17 22:27:48: Epoch [0]   Batch [16]   Speed  22.8 (+ 0) sample/sec  loss-ce = 1.25370  
+2021-03-17 22:27:51: Epoch [0]   Batch [17]   Speed  23.4 (+ 0) sample/sec  loss-ce = 1.28076  
+2021-03-17 22:27:53: Epoch [0]   Batch [18]   Speed  23.5 (+ 0) sample/sec  loss-ce = 1.28449  
+2021-03-17 22:27:56: Epoch [0]   Batch [19]   Speed  23.1 (+ 0) sample/sec  loss-ce = 1.42705  
+2021-03-17 22:27:59: Epoch [0]   Batch [20]   Speed  22.6 (+ 0) sample/sec  loss-ce = 1.36115  
+2021-03-17 22:28:01: Epoch [0]   Batch [21]   Speed  22.0 (+ 0) sample/sec  loss-ce = 1.31202  
+2021-03-17 22:28:04: Epoch [0]   Batch [22]   Speed  23.1 (+ 0) sample/sec  loss-ce = 1.30138  
+2021-03-17 22:28:07: Epoch [0]   Batch [23]   Speed  22.7 (+ 0) sample/sec  loss-ce = 1.25667  
+2021-03-17 22:28:09: Epoch [0]   Batch [24]   Speed  22.6 (+ 0) sample/sec  loss-ce = 1.44027  
+2021-03-17 22:28:12: Epoch [0]   Batch [25]   Speed  23.1 (+ 0) sample/sec  loss-ce = 1.41136  
+2021-03-17 22:28:14: Epoch [0]   Batch [26]   Speed  23.6 (+ 0) sample/sec  loss-ce = 1.27692  
+2021-03-17 22:28:14: Epoch [0]   time cost: 99.16 sec (0.03 h)
+2021-03-17 22:28:14: mkdir exps/speed
+2021-03-17 22:28:14: Checkpoint (model & optimizer) saved to: exps/speed/model_ep-0001.pth
+2021-03-17 22:28:14: Start epoch 1:
+2021-03-17 22:28:23: Epoch [1]   Batch [0]    Speed   7.0 (+ 8) sample/sec  loss-ce = 1.10013  
+2021-03-17 22:28:25: Epoch [1]   Batch [1]    Speed  21.1 (+ 0) sample/sec  loss-ce = 1.27649  
+2021-03-17 22:28:28: Epoch [1]   Batch [2]    Speed  21.7 (+ 0) sample/sec  loss-ce = 1.21146  
+2021-03-17 22:28:31: Epoch [1]   Batch [3]    Speed  22.2 (+ 0) sample/sec  loss-ce = 1.34606  
+2021-03-17 22:28:33: Epoch [1]   Batch [4]    Speed  22.9 (+ 0) sample/sec  loss-ce = 1.38082  
+2021-03-17 22:28:36: Epoch [1]   Batch [5]    Speed  22.8 (+ 0) sample/sec  loss-ce = 1.12151  
+2021-03-17 22:28:39: Epoch [1]   Batch [6]    Speed  22.5 (+ 0) sample/sec  loss-ce = 1.15010  
+2021-03-17 22:28:41: Epoch [1]   Batch [7]    Speed  22.4 (+ 0) sample/sec  loss-ce = 1.25338  
+2021-03-17 22:28:44: Epoch [1]   Batch [8]    Speed  22.2 (+ 0) sample/sec  loss-ce = 1.24949  
+2021-03-17 22:28:47: Epoch [1]   Batch [9]    Speed  22.2 (+ 0) sample/sec  loss-ce = 1.10499  
+2021-03-17 22:28:50: Epoch [1]   Batch [10]   Speed  21.9 (+ 0) sample/sec  loss-ce = 1.16391  
+2021-03-17 22:28:52: Epoch [1]   Batch [11]   Speed  21.2 (+ 0) sample/sec  loss-ce = 1.18288  
+2021-03-17 22:28:55: Epoch [1]   Batch [12]   Speed  21.7 (+ 0) sample/sec  loss-ce = 1.19972  
+2021-03-17 22:28:58: Epoch [1]   Batch [13]   Speed  23.6 (+ 0) sample/sec  loss-ce = 1.18127  
+2021-03-17 22:29:00: Epoch [1]   Batch [14]   Speed  23.7 (+ 0) sample/sec  loss-ce = 1.22678  
+2021-03-17 22:29:03: Epoch [1]   Batch [15]   Speed  22.6 (+ 0) sample/sec  loss-ce = 1.14025  
+2021-03-17 22:29:06: Epoch [1]   Batch [16]   Speed  21.6 (+ 0) sample/sec  loss-ce = 1.18814  
+2021-03-17 22:29:08: Epoch [1]   Batch [17]   Speed  22.3 (+ 0) sample/sec  loss-ce = 1.05150  
+2021-03-17 22:29:11: Epoch [1]   Batch [18]   Speed  23.0 (+ 0) sample/sec  loss-ce = 1.06111  
+2021-03-17 22:29:14: Epoch [1]   Batch [19]   Speed  23.1 (+ 0) sample/sec  loss-ce = 1.28768  
+2021-03-17 22:29:16: Epoch [1]   Batch [20]   Speed  23.1 (+ 0) sample/sec  loss-ce = 1.10116  
+2021-03-17 22:29:19: Epoch [1]   Batch [21]   Speed  23.2 (+ 0) sample/sec  loss-ce = 0.97838  
+2021-03-17 22:29:21: Epoch [1]   Batch [22]   Speed  22.4 (+ 0) sample/sec  loss-ce = 1.26180  
+2021-03-17 22:29:24: Epoch [1]   Batch [23]   Speed  21.9 (+ 0) sample/sec  loss-ce = 1.24356  
+2021-03-17 22:29:27: Epoch [1]   Batch [24]   Speed  23.7 (+ 0) sample/sec  loss-ce = 1.17293  
+2021-03-17 22:29:29: Epoch [1]   Batch [25]   Speed  22.6 (+ 0) sample/sec  loss-ce = 1.17296  
